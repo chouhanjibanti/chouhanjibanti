@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Banti Chouhan |  Junior Java Developer 
+----------------------------------------------------------------------------
 
-<!--
-**chouhanjibanti/chouhanjibanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chouhanjibanti is a ✨ Good Resource ✨ and its contains more repositorys on new technologies and frame works.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning on React and Blockchain
+- 📫 How to reach me: write mail to chouhanbanti224@gmail.com
+- 🥅 2026 Goals: To gain more knowledge on new technologies
+- ⚡ Hobbies: Exploring more on new things.
+
+Projects Worked on
+✨ Core Java
+✨ Advance Java (Hibernate , Springboot , servlet , jdbc , jsp)
+
+
+Languages and Tools:
+
+✨ Java
+✨ HTML5
+✨ Advance Java
+✨ MYSQL
+✨ Eclipse
+
+
+
+
+
