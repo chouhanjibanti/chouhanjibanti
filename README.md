@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 Projects Worked on
 ✨ Core Java
-✨ Advance Java (Hibernate , Springboot , servlet , jdbc , jsp)
+✨ Advance Java (Hibernate ,Spring , Springboot , servlet , jdbc , jsp)
 
 
 Languages and Tools:
@@ -23,6 +23,10 @@ Languages and Tools:
 ✨ Advance Java
 ✨ MYSQL
 ✨ Eclipse
+✨ VSCode
+✨ JavaScript ES6
+✨ CSS3
+
 
 
 
