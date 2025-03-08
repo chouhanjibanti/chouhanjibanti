@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 Projects Worked on
 ✨ Core Java
-✨ Advance Java (Hibernate ,Spring , Springboot , servlet , jdbc , jsp)
+✨ Advance Java (Hibernate ,Spring , Springboot , Microservice , servlet , jdbc , jsp)
 
 
 Languages and Tools:
